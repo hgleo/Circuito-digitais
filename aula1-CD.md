@@ -28,41 +28,41 @@
  
   - Trabalha com variáveis/sentenças biestáveis.
   - Uma eexpressão booleana é a combinação de variáveis/sentenças que apresentam um único valor a cada verificação.
-   - NOT: S = ¬(A)    S A B
+   - NOT: S = ¬(A):   S A B
                         F V
                         V F
                         
-   - AND: S = A*B     S A B
+   - AND: S = A*B:    S A B
                       V V V
                       F V F
                       F F V
                       F F F
                       
-   - OR: S = A+B      S A B
+   - OR: S = A+B:     S A B
                       V V V
                       V V F
                       V F V
                       F F V
                       
-   - NAND: S = ¬(AB)  S A B
+   - NAND: S = ¬(AB): S A B
                       F V V
                       V V F
                       V F V
                       V F F
                       
-   - NOR: S = ¬(A+B)  S A B
+   - NOR: S = ¬(A+B): S A B
                       F V V
                       F V F
                       F F V
                       F F F
                       
-   - XOR: S = A(+)B   S A B
+   - XOR: S = A(+)B:  S A B
                       F V V
                       V V F
                       V F V
                       F F F
                       
-   - XNOR: S = A(.)B  S A B 
+   - XNOR: S = A(.)B: S A B 
                       V V V
                       F V F
                       F F V
