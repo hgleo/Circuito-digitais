@@ -23,3 +23,17 @@
 ### - A seleção do canal de entrada a ser multiplexado é feita através de sinaisi de controle, denomidados de variáveis de seleção
 
 ### - Esquema simplificador de um mux
+
+### MUX com 2 Canais
+
+### MUX com 4 canais
+
+## - Geração de função arbitrária
+
+### - Suponha a expressão Z = A~B~C + ~AB~C + ABC
+
+## - Demultiplexador (DEMUX)
+
+### - É um circuito possuindo apenas 1 entrada e 2 ou mais saídas. Sua finalidade é selecionar para qual saída o sinal de entrada será enviado
+
+### - A seleção também é feita por variáveis de constrole com pelo menos Logn Bits, sendo N o número de saídas
